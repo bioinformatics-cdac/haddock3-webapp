@@ -1,3 +1,5 @@
+docker build -t icr.icecloud.in/k8s/haddock3-webapp -f Dockerfile ..
+
 # Deployments
 
 > [!NOTE]
